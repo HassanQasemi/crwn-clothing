@@ -2,14 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9fa2dc18-50fa-4772-a906-4f7952cac651" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/components/collection-item/collection-item.component.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/collection-item/collection-item.styles.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/preview-collection/preview-collection.component.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/preview-collection/preview-collection.styles.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/shop/shop.component.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/shop/shop.data.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/shop/shop.styles.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/directory/directory.component.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/directory/directory.component.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/menu-item/menu-item.component.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/menu-item/menu-item.component.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +28,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1bBbQpY3xBpUddTPDQ6tp7mNWjD" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -66,7 +72,9 @@
       <workItem from="1595690993969" duration="1620000" />
       <workItem from="1595741884173" duration="6055000" />
       <workItem from="1595871555073" duration="1173000" />
-      <workItem from="1595915875746" duration="3897000" />
+      <workItem from="1595915875746" duration="4501000" />
+      <workItem from="1595956697973" duration="5984000" />
+      <workItem from="1596001071808" duration="3204000" />
     </task>
     <servers />
   </component>
@@ -74,10 +82,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="438" y="167" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1595462079036">
+    <state x="438" y="167" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1595959932182">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="438" y="167" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1595462079036" />
+    <state x="438" y="167" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1595959932182" />
     <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1595461853654">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -90,9 +98,17 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="6" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1595486052623" />
-    <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1595917726717">
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1596001211530">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1595917726717" />
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1596001211530" />
+    <state x="0" y="0" width="737" height="728" key="find.popup" timestamp="1595960173343">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="0" y="0" width="737" height="728" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1595960173343" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1596003984821">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1596003984821" />
   </component>
 </project>
