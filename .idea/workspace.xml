@@ -2,11 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9fa2dc18-50fa-4772-a906-4f7952cac651" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/assets/crown.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/header/header.component.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/header/header.styles.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/form-input/form-input.component.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/form-input/form-input.styles.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/sign-in/sign-in.component.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/sign-in/sign-in.styles.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/sign-in-and-sign-up/sign-in-and-sign-up.component.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/sign-in-and-sign-up/sign-in-and-sign-up.styles.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -69,7 +71,9 @@
       <workItem from="1595871555073" duration="1173000" />
       <workItem from="1595915875746" duration="4501000" />
       <workItem from="1595956697973" duration="5984000" />
-      <workItem from="1596001071808" duration="5722000" />
+      <workItem from="1596001071808" duration="8933000" />
+      <workItem from="1596036897823" duration="3543000" />
+      <workItem from="1596207423600" duration="200000" />
     </task>
     <servers />
   </component>
@@ -93,17 +97,17 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="6" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1595486052623" />
-    <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1596001211530">
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1596207561784">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1596001211530" />
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1596207561784" />
     <state x="0" y="0" width="737" height="728" key="find.popup" timestamp="1595960173343">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="0" y="0" width="737" height="728" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1595960173343" />
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1596003984821">
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1596011860455">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1596003984821" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1596011860455" />
   </component>
 </project>
